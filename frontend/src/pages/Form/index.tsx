@@ -6,6 +6,6 @@ function Form() {
     
     return (
         <FormCard movieId={`${params.movieId}`}/>
-    )
-};
+    );
+}
 export default Form
