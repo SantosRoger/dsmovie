@@ -1,3 +1,4 @@
+/* eslint-disable no-template-curly-in-string */
 import MovieScore from "components/MovieScore";
 import { Link } from "react-router-dom";
 
